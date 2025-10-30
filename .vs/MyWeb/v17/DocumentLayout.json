@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:routes\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\client\\src\\pages\\historypage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:client\\src\\pages\\historypage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\client\\src\\pages\\registerpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:client\\src\\pages\\registerpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\client\\src\\pages\\loginpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:client\\src\\pages\\loginpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\client\\src\\pages\\tripdetailpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:client\\src\\pages\\tripdetailpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\client\\src\\context\\authcontext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:client\\src\\context\\authcontext.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\authmiddleware.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:authmiddleware.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\models\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:models\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|c:\\users\\offir\\afeka\\web\\final\\finalproject\\myweb\\client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF37CBBD-50D4-8E0C-ECAB-90BD19B62168}|MyWeb.esproj|solutionrelative:client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-15T16:07:44.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoryPage.jsx",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\src\\pages\\HistoryPage.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\HistoryPage.jsx",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\src\\pages\\HistoryPage.jsx",
+              "RelativeToolTip": "client\\src\\pages\\HistoryPage.jsx",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-14T17:36:08.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TripDetailPage.jsx",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\src\\pages\\TripDetailPage.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\TripDetailPage.jsx",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\src\\pages\\TripDetailPage.jsx",
+              "RelativeToolTip": "client\\src\\pages\\TripDetailPage.jsx",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAtwIMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-14T17:35:42.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterPage.jsx",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\src\\pages\\RegisterPage.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\RegisterPage.jsx",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\src\\pages\\RegisterPage.jsx",
+              "RelativeToolTip": "client\\src\\pages\\RegisterPage.jsx",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAtwHMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-14T17:28:45.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\README.md",
+              "RelativeDocumentMoniker": "client\\README.md",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\README.md",
+              "RelativeToolTip": "client\\README.md",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-14T17:27:22.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthContext.js",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\src\\context\\AuthContext.js",
+              "RelativeDocumentMoniker": "client\\src\\context\\AuthContext.js",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\src\\context\\AuthContext.js",
+              "RelativeToolTip": "client\\src\\context\\AuthContext.js",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-14T17:25:48.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "authMiddleware.js",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\authMiddleware.js",
+              "RelativeDocumentMoniker": "authMiddleware.js",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\authMiddleware.js",
+              "RelativeToolTip": "authMiddleware.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-14T17:23:40.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.js",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\models\\User.js",
+              "RelativeDocumentMoniker": "models\\User.js",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\models\\User.js",
+              "RelativeToolTip": "models\\User.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-14T17:21:53.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\routes\\auth.js",
+              "RelativeDocumentMoniker": "routes\\auth.js",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\routes\\auth.js",
+              "RelativeToolTip": "routes\\auth.js",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwD4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-14T17:16:37.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\server.js",
+              "RelativeDocumentMoniker": "server.js",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\server.js",
+              "RelativeToolTip": "server.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-14T17:16:15.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\package.json",
+              "RelativeDocumentMoniker": "client\\package.json",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\package.json",
+              "RelativeToolTip": "client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T17:14:50.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.jsx",
+              "DocumentMoniker": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\src\\pages\\LoginPage.jsx",
+              "RelativeDocumentMoniker": "client\\src\\pages\\LoginPage.jsx",
+              "ToolTip": "C:\\Users\\offir\\Afeka\\WEB\\Final\\FinalProject\\MyWeb\\client\\src\\pages\\LoginPage.jsx",
+              "RelativeToolTip": "client\\src\\pages\\LoginPage.jsx",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAtwH0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-14T17:08:08.76Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1087,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
